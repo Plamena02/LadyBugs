@@ -1,3 +1,2 @@
 # LadyBugs
 IT Career
-dk
